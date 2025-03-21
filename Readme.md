@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 - **/dashboard**: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
 - **notebook.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
-## Penggunaan
+## Menjalankan Streamlit Dashboard app
 1. Move to dashboard directory
    ```
    cd Abdul Rafar_Proyek Analisis Data Bike sharing\dashboard
@@ -20,3 +20,6 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 2. Run streamlit app
    ```
    streamlit run dashboard.py
+
+## Atau dapat Mengakses Streamlit Cloud
+Streamlit Cloud : [Bike Sharing Dashboard]
