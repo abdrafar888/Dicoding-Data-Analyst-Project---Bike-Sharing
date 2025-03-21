@@ -13,10 +13,10 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 - **notebook.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Penggunaan
-1. Masuk ke direktori proyek (Local):
-
-    ```shell
-    cd Abdul Rafar_Proyek Analisis Data Bike sharing/dashboard/
-    streamlit run dashboard.py
-    ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bike-sharing-ariniamsr.streamlit.app/)
+1. Move to dashboard directory
+   ```
+   cd Abdul Rafar_Proyek Analisis Data Bike sharing\dashboard
+   ```
+2. Run streamlit app
+   ```
+   streamlit run dashboard.py
