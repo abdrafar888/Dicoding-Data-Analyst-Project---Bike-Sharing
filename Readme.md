@@ -22,4 +22,4 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
    streamlit run dashboard.py
 
 ## Atau dapat Mengakses Streamlit Cloud
-Streamlit Cloud : [Bike Sharing Dashboard]
+Streamlit Cloud : [Bike Sharing Dashboard](https://dicoding-data-analyst-project---bike-sharing-gcixnftycmmjwc3bw.streamlit.app/)
